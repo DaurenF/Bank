@@ -1,6 +1,8 @@
 # Bank
 <h1>Before running program we should get the lastest currency of USD to KZT</h>
 <div>localhost:8080/getCurrency</div>
+<br>
+<div>It takes the latest currency and saves to database</div>
 
 <h2>Post request to save a new transaction</h2>
 <div>localhost:8080/transaction/new?sum=150000.00&account_from=0&account_to=1&expense_category=product</div>
