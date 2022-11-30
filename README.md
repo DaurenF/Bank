@@ -1,5 +1,5 @@
 # Bank
-<h1>Before running program we should get last currency of USD</h>
+<h1>Before running program we should get the lastest currency of USD to KZT</h>
 <div>localhost:8080/getCurrency</div>
 
 <h2>Post request to save a new transaction</h2>
