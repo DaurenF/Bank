@@ -5,7 +5,7 @@
 <div>It takes the latest currency and saves to database</div>
 
 <h2>Post request to save a new transaction</h2>
-<div>localhost:8080/transaction/new?sum=150000.00&account_from=0&account_to=1&expense_category=product</div>
+<div>localhost:8080/transaction/new?sum=150000.00&account_from=0123456789&account_to=0123456987&expense_category=product</div>
 <h2>Post request to save a new limit</h2>
 <div>localhost:8080/limit/new?value=2000&expense_category=product</div>
 
